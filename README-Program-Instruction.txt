@@ -50,9 +50,9 @@ I have worked mainly on MS SQL
 
 - What would you have done differently if you had had more time
 
-1. Better handling of exceptions and cases where error is being thrown due to invalid inputs
-2. Cleaner Program.cs file and business logic would have written on different service
-3. More unit test cases
+1. Better handling of exceptions and cases where error is being thrown due to invalid inputs.
+2. Cleaner Program.cs file and business logic in Program.cs would have written on a different service.
+3. More unit test cases.
 4. Better handling of code for accepting commands even after exception is being thrown.
-5. Reducing redundant code on SoftwareAdviceService and CapterraService and combining them in a common file.
+5. Reducing redundant code on SoftwareAdviceService and CapterraService and combining them in a common service.
  
