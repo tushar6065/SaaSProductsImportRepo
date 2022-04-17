@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaaSProductsImport", "SaaSProductsImport\SaaSProductsImport.csproj", "{577D38B0-F246-4C5A-B4BD-7A1E15F65860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaSProductsImport.UnitTest", "SaaSProductsImport.UnitTest\SaaSProductsImport.UnitTest.csproj", "{1BBE2D63-3D15-4EF2-9026-0FC40A7FACF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577D38B0-F246-4C5A-B4BD-7A1E15F65860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577D38B0-F246-4C5A-B4BD-7A1E15F65860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577D38B0-F246-4C5A-B4BD-7A1E15F65860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577D38B0-F246-4C5A-B4BD-7A1E15F65860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBE2D63-3D15-4EF2-9026-0FC40A7FACF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBE2D63-3D15-4EF2-9026-0FC40A7FACF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBE2D63-3D15-4EF2-9026-0FC40A7FACF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBE2D63-3D15-4EF2-9026-0FC40A7FACF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E59341CF-97D3-4376-AC45-693B577297BD}
+	EndGlobalSection
+EndGlobal
